@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/TCRFRR67pVkAAAAi/rebrnd-coding.gif">
 - 🔭 I’m currently working on [Casino Games](https://github.com/harshit2020/Casino_Games.git)
 
-- 🌱 I’m currently learning **Artificial Learning**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me **sangwan.harshit003@gmail.com**
 
